@@ -1,6 +1,6 @@
 # AeroVista Flight Simulator ✨✈️🌆
 
-## Try live demo - [Demo](https://aerovista-flight-simulator.vercel.app/)
+## Try live demo - [Demo](https://aero-vista-flight-simulator.vercel.app/)
 
 A web-based 3D flight simulator built with React, Three.js, and Vite, letting you pilot a plane through a stylized city environment using keyboard or touch controls. Developed with AI assistance as part of the #30DaysOfVibeCoding challenge.
 
