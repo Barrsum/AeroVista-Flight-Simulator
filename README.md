@@ -100,7 +100,7 @@ While this was primarily a personal challenge project, contributions, issues, an
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.md` (you may need to create this file, typically just containing standard MIT license text) for more information.
+Distributed under the MIT License. See `LICENSE.md` for more information.
 
 ## Acknowledgements
 
