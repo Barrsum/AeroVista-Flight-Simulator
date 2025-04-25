@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Add some base styling */
+body {
+  @apply bg-white dark:bg-gray-900 text-black dark:text-white transition-colors duration-300;
+  margin: 0; /* Ensure no default body margin */
+  font-family: sans-serif; /* Or choose a nicer font later */
+  overflow: hidden; /* Prevent scrollbars caused by canvas */
+}
+
+/* Ensure canvas fills the screen */
+#root, body, html {
+  height: 100%;
+  width: 100%;
+  position: relative; /* Needed for absolute positioning of UI */
+}
+
+canvas {
+  display: block; /* Prevent potential small gaps below canvas */
+}
+
+ /* Created by Ram Bapat, www.linkedin.com/in/ram-bapat-barrsum-diamos */
